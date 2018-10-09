@@ -10,7 +10,7 @@
 <h1>GIT</h1>
 <p>Lorem</p>
 <pre>
-
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto adipisci odio veritatis provident vitae? Praesentium architecto fuga cupiditate recusandae possimus?
     <?php
         // подключение к базе данных
         $mysqli =   new mysqli ("127.0.0.1", "root", "", "mybase");
