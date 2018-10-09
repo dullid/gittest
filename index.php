@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>GIT</h1>
+<p>Lorem</p>
 <pre>
 
     <?php
